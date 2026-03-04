@@ -1,0 +1,20 @@
+html {
+    font-size: 26px;
+    font-style: italic;
+     }
+    body {
+        background-color: whitesmoke;
+        color: darkblue;
+    }
+    h1 {
+        font-style: x-italic;
+        color : yellowgreen;}
+    p{
+            color : plum;
+            font-style: normal;
+        }
+    h2 {
+        color: blue;
+        font-style: normal;
+        font-size: 25px;
+    }
